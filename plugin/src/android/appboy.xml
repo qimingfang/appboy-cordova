@@ -3,4 +3,6 @@
   <string translatable="false" name="com_appboy_api_key">$APPBOY_API_KEY</string>
   <bool name="com_appboy_push_gcm_messaging_registration_enabled">$APPBOY_PUSH_REGISTRATION_ENABLED</bool>
   <string translatable="false" name="com_appboy_push_gcm_sender_id">$APPBOY_GCM_SENDER_ID</string>
+  <drawable name="com_appboy_push_small_notification_icon">$APPBOY_SMALL_NOTIFICATION_ICON</drawable>
+  <integer name="com_appboy_default_notification_accent_color">$APPBOY_NOTIFICATION_ACCENT_COLOR</integer>
 </resources>
