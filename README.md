@@ -63,5 +63,3 @@ To remove automatic push registration on Android, set `com_appboy_push_gcm_messa
 
 #### Removing automatic push setup (iOS)
 To remove automatic push registration on iOS, remove `didFinishLaunchingListener` from `AppboyPlugin.m`.  To further remove all automatic setup, remove `AppDelegate+Appboy.h` and `AppboyDelegate+Appboy.m` from the plugin and their references in `plugin.xml`.
-
-Testing
